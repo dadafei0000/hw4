@@ -79,6 +79,7 @@ align-items:center;
   position:absolute;
   content:" ";
   background-color:white;
+  border-color:red;
   width:15px;
   height:15px;
   border-radius:15px;
